@@ -1,0 +1,11 @@
+{
+  "name": "easyhttp",
+  "version": "1.0.0",
+  "description": "EasyHTTP is a simple Object Oriented JavaScript library for using the XMLHttpRequest API.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenneth Bushman",
+  "license": "MIT"
+}
